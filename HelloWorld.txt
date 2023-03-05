@@ -1,5 +1,2 @@
 print("Hello, World!");
 1
-Ural the best
-3
-4
